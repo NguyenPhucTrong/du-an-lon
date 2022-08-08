@@ -21,5 +21,10 @@ namespace Dự_Án_lớn
         {
 
         }
+
+        private void btnCapNhat_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
